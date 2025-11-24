@@ -1,0 +1,1751 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:09:39.534Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45123646250441,
+          17.440687975939845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:09:43.202Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4511108551315,
+          17.440225124613296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:09:46.870Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45104911634121,
+          17.44044184349314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:09:50.538Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45138691376411,
+          17.440684163767465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:09:54.206Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45173089590938,
+          17.44032270680023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:09:57.874Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4514407052792,
+          17.439985218207866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:01.542Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45183015388886,
+          17.440142712458925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:05.210Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45178620901126,
+          17.439856785153545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:08.878Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45210571098393,
+          17.440283669148442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:12.546Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45161602097474,
+          17.440096193940615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:16.215Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45153765794385,
+          17.439750857505462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:19.883Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4517916848997,
+          17.43992305110313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:23.551Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4522736622401,
+          17.440159251196057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:27.219Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45213117385536,
+          17.44000017844577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:30.889Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45216126209391,
+          17.4401096577199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:34.557Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45256155111308,
+          17.4401314937737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:38.225Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45282442458539,
+          17.440103139458376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:41.893Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45303418601935,
+          17.439822008116604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:45.561Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45312231943127,
+          17.439655906331396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:49.228Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45296893352844,
+          17.439627640640914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:52.896Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45307418362678,
+          17.4400452068738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:10:56.565Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45259099364178,
+          17.439763749009607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:11:00.233Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45283184810417,
+          17.439332883840276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:11:03.901Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45318940817644,
+          17.439025282040163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:11:07.569Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4530151108264,
+          17.438872960316402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "timestamp": "2025-11-24T08:11:11.238Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45270222568648,
+          17.438831131506664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-101",
+        "path": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.45123646250441,
+            17.440687975939845
+          ],
+          [
+            78.4511108551315,
+            17.440225124613296
+          ],
+          [
+            78.45104911634121,
+            17.44044184349314
+          ],
+          [
+            78.45138691376411,
+            17.440684163767465
+          ],
+          [
+            78.45173089590938,
+            17.44032270680023
+          ],
+          [
+            78.4514407052792,
+            17.439985218207866
+          ],
+          [
+            78.45183015388886,
+            17.440142712458925
+          ],
+          [
+            78.45178620901126,
+            17.439856785153545
+          ],
+          [
+            78.45210571098393,
+            17.440283669148442
+          ],
+          [
+            78.45161602097474,
+            17.440096193940615
+          ],
+          [
+            78.45153765794385,
+            17.439750857505462
+          ],
+          [
+            78.4517916848997,
+            17.43992305110313
+          ],
+          [
+            78.4522736622401,
+            17.440159251196057
+          ],
+          [
+            78.45213117385536,
+            17.44000017844577
+          ],
+          [
+            78.45216126209391,
+            17.4401096577199
+          ],
+          [
+            78.45256155111308,
+            17.4401314937737
+          ],
+          [
+            78.45282442458539,
+            17.440103139458376
+          ],
+          [
+            78.45303418601935,
+            17.439822008116604
+          ],
+          [
+            78.45312231943127,
+            17.439655906331396
+          ],
+          [
+            78.45296893352844,
+            17.439627640640914
+          ],
+          [
+            78.45307418362678,
+            17.4400452068738
+          ],
+          [
+            78.45259099364178,
+            17.439763749009607
+          ],
+          [
+            78.45283184810417,
+            17.439332883840276
+          ],
+          [
+            78.45318940817644,
+            17.439025282040163
+          ],
+          [
+            78.4530151108264,
+            17.438872960316402
+          ],
+          [
+            78.45270222568648,
+            17.438831131506664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:39.978Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45654658598187,
+          17.444687124901254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:42.034Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4567136685964,
+          17.444232275682996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:44.090Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45693718476045,
+          17.444348427230008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:46.146Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45716437987632,
+          17.444567152682808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:48.206Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45732712292623,
+          17.44456366732743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:50.261Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45708675608105,
+          17.44427777202386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:52.317Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45714840483733,
+          17.443878172763096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:54.373Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45722792276308,
+          17.444351121076984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:56.429Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4575435767716,
+          17.44482431729497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:09:58.486Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45795491345976,
+          17.445228049473453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:00.542Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45763292389331,
+          17.44521197069862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:02.598Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45798866935391,
+          17.444773880644405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:04.654Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45803793641075,
+          17.44459218369568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:06.710Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45825442994659,
+          17.444766292984212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:08.766Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45869710233546,
+          17.444651932469778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:10.822Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45836138324857,
+          17.444662782375026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:12.878Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45850878903867,
+          17.444931381955243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:14.934Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4580591008953,
+          17.44461514099896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:16.990Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45835441541915,
+          17.444515872701757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:19.046Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45873254907688,
+          17.4448737660953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:21.102Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45865428132801,
+          17.444513694234466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:23.157Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45889699797664,
+          17.445011436849818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:25.213Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45918971190632,
+          17.444855318590573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:27.269Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4592460669252,
+          17.445341381825394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:29.326Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45916775079014,
+          17.445095436872354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:31.381Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45903217751167,
+          17.444796998818855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:33.438Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45931654475848,
+          17.444629706062592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:35.493Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45943577634922,
+          17.4445497895893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:37.550Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45915729831549,
+          17.444800838134668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:39.606Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45960043368484,
+          17.445135771824596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:41.663Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46008821881598,
+          17.445277415025192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:43.718Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4599601234824,
+          17.445399563309387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:45.774Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4595065590499,
+          17.44524603922131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:47.830Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45958404008532,
+          17.44531122021029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:49.886Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45957817903489,
+          17.445642513430325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:51.941Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45973683377386,
+          17.445890515969623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:53.998Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45954621320932,
+          17.445497733569912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:56.053Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45962403830472,
+          17.44591600949214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:10:58.110Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45944174664595,
+          17.445727457525226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:00.166Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45897130157867,
+          17.44613561105477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:02.221Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45910671359505,
+          17.446165939594696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:04.277Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45877042306269,
+          17.4461606511821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:06.333Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45908492591886,
+          17.4459633809665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:08.389Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45933205799703,
+          17.44626377201773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:10.445Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45925772764745,
+          17.446367781322905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "timestamp": "2025-11-24T08:11:12.501Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45902329082493,
+          17.445903824528944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-102",
+        "path": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.45654658598187,
+            17.444687124901254
+          ],
+          [
+            78.4567136685964,
+            17.444232275682996
+          ],
+          [
+            78.45693718476045,
+            17.444348427230008
+          ],
+          [
+            78.45716437987632,
+            17.444567152682808
+          ],
+          [
+            78.45732712292623,
+            17.44456366732743
+          ],
+          [
+            78.45708675608105,
+            17.44427777202386
+          ],
+          [
+            78.45714840483733,
+            17.443878172763096
+          ],
+          [
+            78.45722792276308,
+            17.444351121076984
+          ],
+          [
+            78.4575435767716,
+            17.44482431729497
+          ],
+          [
+            78.45795491345976,
+            17.445228049473453
+          ],
+          [
+            78.45763292389331,
+            17.44521197069862
+          ],
+          [
+            78.45798866935391,
+            17.444773880644405
+          ],
+          [
+            78.45803793641075,
+            17.44459218369568
+          ],
+          [
+            78.45825442994659,
+            17.444766292984212
+          ],
+          [
+            78.45869710233546,
+            17.444651932469778
+          ],
+          [
+            78.45836138324857,
+            17.444662782375026
+          ],
+          [
+            78.45850878903867,
+            17.444931381955243
+          ],
+          [
+            78.4580591008953,
+            17.44461514099896
+          ],
+          [
+            78.45835441541915,
+            17.444515872701757
+          ],
+          [
+            78.45873254907688,
+            17.4448737660953
+          ],
+          [
+            78.45865428132801,
+            17.444513694234466
+          ],
+          [
+            78.45889699797664,
+            17.445011436849818
+          ],
+          [
+            78.45918971190632,
+            17.444855318590573
+          ],
+          [
+            78.4592460669252,
+            17.445341381825394
+          ],
+          [
+            78.45916775079014,
+            17.445095436872354
+          ],
+          [
+            78.45903217751167,
+            17.444796998818855
+          ],
+          [
+            78.45931654475848,
+            17.444629706062592
+          ],
+          [
+            78.45943577634922,
+            17.4445497895893
+          ],
+          [
+            78.45915729831549,
+            17.444800838134668
+          ],
+          [
+            78.45960043368484,
+            17.445135771824596
+          ],
+          [
+            78.46008821881598,
+            17.445277415025192
+          ],
+          [
+            78.4599601234824,
+            17.445399563309387
+          ],
+          [
+            78.4595065590499,
+            17.44524603922131
+          ],
+          [
+            78.45958404008532,
+            17.44531122021029
+          ],
+          [
+            78.45957817903489,
+            17.445642513430325
+          ],
+          [
+            78.45973683377386,
+            17.445890515969623
+          ],
+          [
+            78.45954621320932,
+            17.445497733569912
+          ],
+          [
+            78.45962403830472,
+            17.44591600949214
+          ],
+          [
+            78.45944174664595,
+            17.445727457525226
+          ],
+          [
+            78.45897130157867,
+            17.44613561105477
+          ],
+          [
+            78.45910671359505,
+            17.446165939594696
+          ],
+          [
+            78.45877042306269,
+            17.4461606511821
+          ],
+          [
+            78.45908492591886,
+            17.4459633809665
+          ],
+          [
+            78.45933205799703,
+            17.44626377201773
+          ],
+          [
+            78.45925772764745,
+            17.446367781322905
+          ],
+          [
+            78.45902329082493,
+            17.445903824528944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:09:40.143Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45033076213947,
+          17.442783719482968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:09:44.421Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45061951816523,
+          17.44270309732395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:09:48.698Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45083361277514,
+          17.443072441681466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:09:52.975Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45094035892618,
+          17.443108787058662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:09:57.251Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45101380717058,
+          17.443381562818686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:01.529Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45146350097568,
+          17.443707783393453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:05.806Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45141614059003,
+          17.44351009616609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:10.083Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45144096351483,
+          17.443629351307454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:14.360Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45126337733151,
+          17.44403581535213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:18.637Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45100529749833,
+          17.444052123678933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:22.915Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45108066843405,
+          17.444314920265025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:27.191Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45135993187841,
+          17.444431398238418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:31.469Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45161547268759,
+          17.444123673807223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:35.746Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45170204229893,
+          17.444125211304108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:40.022Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45129679080901,
+          17.444582766099852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:44.299Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.451199203964,
+          17.44413802137057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:48.577Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45161195657414,
+          17.44427299735618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:52.854Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45174169373684,
+          17.444002584693717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:10:57.132Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45188794544404,
+          17.444114080866193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:11:01.407Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45185479644094,
+          17.44441019595532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:11:05.684Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45204670469306,
+          17.44441650699514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:11:09.962Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45168691450613,
+          17.44434797418452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "timestamp": "2025-11-24T08:11:14.239Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4517453985202,
+          17.444577996130718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicle_id": "veh-103",
+        "path": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.45033076213947,
+            17.442783719482968
+          ],
+          [
+            78.45061951816523,
+            17.44270309732395
+          ],
+          [
+            78.45083361277514,
+            17.443072441681466
+          ],
+          [
+            78.45094035892618,
+            17.443108787058662
+          ],
+          [
+            78.45101380717058,
+            17.443381562818686
+          ],
+          [
+            78.45146350097568,
+            17.443707783393453
+          ],
+          [
+            78.45141614059003,
+            17.44351009616609
+          ],
+          [
+            78.45144096351483,
+            17.443629351307454
+          ],
+          [
+            78.45126337733151,
+            17.44403581535213
+          ],
+          [
+            78.45100529749833,
+            17.444052123678933
+          ],
+          [
+            78.45108066843405,
+            17.444314920265025
+          ],
+          [
+            78.45135993187841,
+            17.444431398238418
+          ],
+          [
+            78.45161547268759,
+            17.444123673807223
+          ],
+          [
+            78.45170204229893,
+            17.444125211304108
+          ],
+          [
+            78.45129679080901,
+            17.444582766099852
+          ],
+          [
+            78.451199203964,
+            17.44413802137057
+          ],
+          [
+            78.45161195657414,
+            17.44427299735618
+          ],
+          [
+            78.45174169373684,
+            17.444002584693717
+          ],
+          [
+            78.45188794544404,
+            17.444114080866193
+          ],
+          [
+            78.45185479644094,
+            17.44441019595532
+          ],
+          [
+            78.45204670469306,
+            17.44441650699514
+          ],
+          [
+            78.45168691450613,
+            17.44434797418452
+          ],
+          [
+            78.4517453985202,
+            17.444577996130718
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vehicle Live Updates</title>
+    <script src="https://cdn.socket.io/4.7.1/socket.io.min.js"></script>
+  </head>
+  <body>
+    <h2>Realtime Vehicle Tracking</h2>
+    <pre id="log"></pre>
+
+    <script>
+      const log = document.getElementById("log");
+      const socket = io("http://localhost:3000");
+
+      socket.on("position", (msg) => {
+        log.textContent += JSON.stringify(msg) + "\n";
+      });
+    </script>
+  </body>
+</html>
