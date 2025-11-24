@@ -10,25 +10,29 @@ This project is a lightweight backend service that receives realtime GPS locatio
 ### 1. Install dependencies
 ```bash
 npm install
-2. Create config file
-bash
-Copy code
-cp config.example.json config.json
-3. Create output directory
-bash
-Copy code
-mkdir data
-Run Commands
-Start the backend server
-bash
-Copy code
-npm start
-Start the IoT simulator (in a separate terminal)
-bash
-Copy code
-npm run sim
-Open realtime WebSocket client
-Open the HTML file in your browser:
+```
 
-Copy code
+### 2. Create output directory (I've already set up a data directory with data from my part of testing If you can just delete the old one and make a new one)
+```bash
+mkdir data
+```
+
+---
+
+## Run Commands
+
+### Start the backend server
+```bash
+npm start
+```
+
+### Start the IoT simulator (in a separate terminal)
+```bash
+npm run sim
+```
+
+### Open realtime WebSocket client
+Open the HTML file in your browser:
+```
 ws-client.html
+```
